@@ -65,10 +65,7 @@ I am a cybersecurity-focused postgraduate student with hands-on experience in et
 
 ---
 
-## 📫 Connect With Me
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
 
 ---
 
