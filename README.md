@@ -87,4 +87,4 @@ I enjoy analyzing security threats, learning new technologies, and improving my 
 
 ---
 
-<img src="https://raw.githubusercontent.com/thearjunl/thearjunl/output/snake.svg" alt="Snake animation" />
+
