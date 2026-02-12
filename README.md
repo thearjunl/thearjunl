@@ -70,7 +70,9 @@ I enjoy analyzing security threats, learning new technologies, and improving my 
 <a href="https://tryhackme.com/p/arjunl" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40"/>
 </a>
-
+<a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode" width="52" height="40"/>
+</a>
 <a href="mailto:theearjunl@gmail.com">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
 </a>
