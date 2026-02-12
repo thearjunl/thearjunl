@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Arjun+L"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=4500&pause=1500&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Arjun+L"/>
 
 </div>
+
 
 
 
