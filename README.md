@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋 I'm Arjun L</h1>
+<div align="center">
+
+<h1>Hi 👋 I'm Arjun L</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&size=30&width=900&lines=Integrated+MCA+Student+|+🛡️+Cybersecurity+Enthusiast+|+💻+Full+Stack+Developer"/>
+
+</div>
+
 
 <div align="center">
 
