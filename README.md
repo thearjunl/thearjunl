@@ -3,9 +3,7 @@
 <h3 align="center">🎓 Integrated MCA Student | 🛡️ Cybersecurity Enthusiast | 💻 Full Stack Developer</h3>
 
 ---
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thearjunl/thearjunl/main/assets/space-shooter.gif">
-</div>
+
 
 
 
@@ -51,6 +49,10 @@ I enjoy analyzing security threats, learning new technologies, and improving my 
 <img width="12"/>
 <img src="https://skillicons.dev/icons?i=supabase" height="55"/>
 
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thearjunl/thearjunl/main/assets/space-shooter.gif">
 </div>
 
 ---
