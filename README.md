@@ -1,10 +1,9 @@
 <div align="center">
 
-<h1>Hi 👋 I'm Arjun L</h1>
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&size=30&width=900&lines=Integrated+MCA+Student+|+🛡️+Cybersecurity+Enthusiast+|+💻+Full+Stack+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Arjun+L"/>
 
 </div>
+
 
 
 <div align="center">
