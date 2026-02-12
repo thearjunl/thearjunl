@@ -2,9 +2,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&width=800&lines=Integrated+MCA+Student+|+🛡️+Cybersecurity+Enthusiast+|+💻+Full+Stack+Developer;SOC+Analyst+Journey;Ethical+Hacking+%26+Security+Research;Building+Secure+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&width=800&lines=aaaIntegrated+MCA+Student+|+🛡️+Cybersecurity+Enthusiast+|+💻+Full+Stack+Developer"/>
 
 </div>
+
 
 
 
