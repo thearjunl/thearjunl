@@ -4,8 +4,9 @@
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thearjunl/thearjunl/main/assets/space-shooter.gif" />
+  <img src="https://raw.githubusercontent.com/thearjunl/thearjunl/main/assets/space-shooter.gif">
 </div>
+
 
 
 ## 👨‍💻 About Me
