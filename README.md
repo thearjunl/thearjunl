@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋 I'm Arjun L</h1>
 
-<h3 align="center">🎓 Integrated MCA Student | 🛡️ Cybersecurity Enthusiast | 💻 Full Stack Developer</h3>
-
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Ethical+Hacking;SOC+Analyst+Journey;Security+Researcher"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&width=800&lines=Integrated+MCA+Student+|+🛡️+Cybersecurity+Enthusiast+|+💻+Full+Stack+Developer"/>
 
 </div>
+
+
+--
 
 
 
