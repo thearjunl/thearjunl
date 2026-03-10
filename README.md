@@ -15,7 +15,6 @@
 
 
 
-
 ## 👨‍💻 About Me
 
 Hi, I'm **Arjun L**, an Integrated MCA student specializing in **Cybersecurity and Full Stack Development**. I am passionate about information security, ethical hacking, and building secure applications.  
