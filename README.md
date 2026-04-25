@@ -4,19 +4,23 @@
 
 </div>
 
-
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&width=1000&lines=Integrated+MCA+Student+|+🛡️+Cybersecurity+Enthusiast+|+💻+Full+Stack+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&width=1000&lines=Integrated+MCA+Graduate+|+🛡️+Cybersecurity+Enthusiast+|+💻+Full+Stack+Developer"/>
 
 </div>
 
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=thearjunl&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Arjun L**, an Integrated MCA student specializing in **Cybersecurity and Full Stack Development**. I am passionate about information security, ethical hacking, and building secure applications.  
+Hi, I'm **Arjun L**, an Integrated MCA Graduate specializing in **Cybersecurity and Full Stack Development**. I am passionate about information security, ethical hacking, and building secure applications.  
 
 I enjoy analyzing security threats, learning new technologies, and improving my problem-solving skills through real-world challenges. My goal is to build a strong career in cybersecurity, focusing on security analysis, vulnerability assessment, and secure system design.
 
@@ -84,9 +88,11 @@ I enjoy analyzing security threats, learning new technologies, and improving my 
 <a href="https://tryhackme.com/p/arjunl" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40"/>
 </a>
+
 <a href="https://leetcode.com/u/thearjunl/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode" width="52" height="40"/>
 </a>
+
 <a href="mailto:theearjunl@gmail.com">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
 </a>
@@ -102,5 +108,3 @@ I enjoy analyzing security threats, learning new technologies, and improving my 
 </picture>
 
 ---
-
-
