@@ -91,16 +91,7 @@ Production-grade pen testing framework with LLM-powered module orchestration. No
 - Production hardened: rate limiting, input validation, Fernet encryption, JWT auth, 70%+ test coverage
 - Docker + Kubernetes manifests included
 
----
 
-### [OriginCheck](https://github.com/thearjunl/OriginCheck) — AI Plagiarism Detector
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-
-Plagiarism detection using Google Programmable Search Engine for source discovery and Gemini AI for similarity analysis. Built to explore practical LLM integration for NLP tasks.
-
----
 
 ## 🏅 Certifications & Training
 
