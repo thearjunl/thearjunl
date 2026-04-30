@@ -130,7 +130,7 @@ OS            →  Linux (primary) · Windows
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div >
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thearjunl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00FF41&text_color=C9D1D9)
 
