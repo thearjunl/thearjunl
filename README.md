@@ -191,3 +191,8 @@ If you're hiring for SOC / Security Analyst roles or want to collaborate on secu
 ![Profile Views](https://komarev.com/ghpvc/?username=thearjunl&color=00BFFF&style=flat-square&label=Profile+Views)
 
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thearjunl/thearjunl/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thearjunl/thearjunl/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thearjunl/thearjunl/output/pacman-contribution-graph.svg">
+</picture>
