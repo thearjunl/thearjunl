@@ -2,7 +2,9 @@
 
 <div align="center">
 
-# Arjun L
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=4500&pause=1500&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Arjun+L"/>
+
+
 
 **SOC Analyst · Security Researcher · Builder of AI-Powered Security Tools**
 
