@@ -142,11 +142,24 @@ OS            →  Linux (primary) · Windows
 
 ---
 
-## 🌐 TryHackMe
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/arjunl.png)](https://tryhackme.com/p/arjunl)
+<a href="https://www.linkedin.com/in/thearjunl/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
+</a>
+
+<a href="https://tryhackme.com/p/arjunl" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40"/>
+</a>
+
+<a href="https://leetcode.com/u/thearjunl/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode" width="52" height="40"/>
+</a>
+
+<a href="mailto:theearjunl@gmail.com">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
+</a>
 
 </div>
 
