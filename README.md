@@ -128,40 +128,7 @@ OS            →  Linux (primary) · Windows
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<table><tr><td>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=thearjunl
-  &show_icons=true&hide_border=true&bg_color=0D1117
-  &title_color=00BFFF&icon_color=00FF41&text_color=8B949E
-  &rank_icon=github&count_private=true)
-
-</td><td>
-
-![Streak](https://streak-stats.demolab.com?user=thearjunl
-  &hide_border=true&background=0D1117&stroke=21262D
-  &ring=00BFFF&fire=00FF41&currStreakLabel=00BFFF
-  &sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9)
-
-</td></tr><tr><td>
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/
-  ?username=thearjunl&layout=compact&hide_border=true
-  &bg_color=0D1117&title_color=00BFFF&text_color=8B949E
-  &langs_count=5&hide=php,html,css)
-
-</td><td>
-
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime
-  ?username=thearjunl&hide_border=true&bg_color=0D1117
-  &title_color=00BFFF&text_color=8B949E&layout=compact)
-
-</td></tr></table>
-
-</div>
 
 ---
 
