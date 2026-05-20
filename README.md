@@ -27,7 +27,7 @@ CEH         : v13 — In Progress
 Status      : Actively seeking Offensive Security / Penetration Testing roles
 ```
 
-I'm a final-year cybersecurity student who builds tools that attack things — ethically. My work sits at the intersection of **offensive security and AI**: agentic pentesting frameworks, LLM security research, phishing detection ML, and cloud IAM attack surface analysis.
+I'm a cybersecurity graduate who builds tools that attack things — ethically. My work sits at the intersection of offensive security and AI: agentic pentesting frameworks, LLM security research, phishing detection ML, and cloud IAM attack surface analysis.
 
 I don't just study OWASP Top 10. I build systems that automate finding it.
 
