@@ -1,18 +1,14 @@
-
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=4500&pause=1500&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Arjun+L"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=4000&pause=1500&color=FF4444&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Arjun+L;Offensive+Security+%7C+AI+%2B+Hacking;I+break+things+ethically." />
 
-
-
-**SOC Analyst · Security Researcher · Builder of AI-Powered Security Tools**
+**Offensive Security · Penetration Testing · AI-Powered Attack Tooling**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thearjunl-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thearjunl/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-arjunl-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/arjunl)
-[![LeetCode](https://img.shields.io/badge/LeetCode-thearjunl-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/thearjunl/)
-[![Email](https://img.shields.io/badge/Email-theearjunl@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:theearjunl@gmail.com)
-![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00FF41?style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thearjunl.vercel.app-FF4444?style=flat-square&logo=vercel&logoColor=white)](https://thearjunl.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-arjunlputhuvelil333@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunlputhuvelil333@gmail.com)
+![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Offensive%20Security%20Roles-FF4444?style=flat-square)
 
 </div>
 
@@ -20,36 +16,64 @@
 
 ## `whoami`
 
-I'm an Integrated MCA graduate from Kerala, India, specialising in cybersecurity and secure application development. I don't just study security — I build tools that automate the boring parts of it.
+```bash
+$ cat /etc/arjun.conf
 
-My work sits at the intersection of AI and defensive security: SOC automation, IAM governance, penetration testing frameworks. If something can be done with a local LLM and a Python script, I'll build it.
+Name        : Arjun L
+Degree      : Integrated MCA — Cybersecurity (2026), Amal Jyothi College of Engineering, Kerala
+Focus       : Offensive Security · Penetration Testing · AI/LLM Security Research
+Internships : Red Team Hacker Academy (VAPT) · WIN in Life Academy (Cybersecurity)
+CEH         : v13 — In Progress
+Status      : Actively seeking Offensive Security / Penetration Testing roles
+```
 
-Currently hunting for **SOC Analyst / Security Analyst roles** in India. CEH v13 in progress. Active on TryHackMe.
+I'm a final-year cybersecurity student who builds tools that attack things — ethically. My work sits at the intersection of **offensive security and AI**: agentic pentesting frameworks, LLM security research, phishing detection ML, and cloud IAM attack surface analysis.
+
+I don't just study OWASP Top 10. I build systems that automate finding it.
 
 ---
 
-## 🔐 Projects
-
-> These are the ones worth looking at. Each one solves a real problem.
+## 🔴 Projects — The Ones Worth Looking At
 
 ---
 
-### [KAALI](https://github.com/thearjunl/KAALI) — AI-Powered SOC Alert Correlation & Investigation Assistant
+### [KUROKAMI](https://github.com/thearjunl/KUROKAMI) — Agentic LLM-Driven Penetration Testing Framework
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS_RAG-0073CF?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+A production-grade agentic pentesting framework where the LLM doesn't just assist — it **orchestrates**. KUROKAMI plans, sequences, and reasons about findings using a FAISS vector index over real CVE and MITRE ATT&CK data. Not a script wrapper. A full autonomous attack loop.
+
+**Security-relevant internals:**
+- LLM selects and sequences attack modules (`k_*`) based on target context — dynamic, not static
+- RAG over CVE/MITRE ATT&CK data for context-aware exploit reasoning
+- Full audit trail: every action, reasoning chain, and finding stored in SQLite/PostgreSQL
+- Fernet encryption, JWT auth, rate limiting, input validation — security-hardened by design
+- Multi-format reports: JSON, HTML, PDF
+- **LLM security research**: includes prompt injection resistance testing and agentic attack surface boundary analysis
+- Docker + Kubernetes manifests for reproducible deployment
+
+> *The first tool I built that made me realize how dangerous a poorly sandboxed LLM agent actually is.*
+
+---
+
+### [Nizhal](https://github.com/thearjunl/Nizhal) — ML-Based Phishing Detection Chrome Extension
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![ML](https://img.shields.io/badge/Random_Forest-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-KAALI simulates a real SOC workflow end-to-end. It ingests raw security logs (Linux `auth.log`, Suricata IDS), detects anomalies like brute-force attempts, correlates multi-stage events into incidents, enriches them with threat intel from **AbuseIPDB** and **VirusTotal**, then calls **Google Gemini** to act as a senior analyst — generating MITRE ATT&CK-mapped summaries and remediation steps. A React dashboard surfaces everything for human review.
+Manifest V3 Chrome extension for real-time phishing URL detection. Random Forest ML model served via FastAPI, layered with Google Safe Browsing API. Built to tackle OWASP A05 (Security Misconfiguration) and social engineering vectors at the browser level.
 
-**What it actually does:**
-- Parses and indexes real security logs into Elasticsearch in real-time
-- Detects brute-force, lateral movement, and account compromise patterns
-- Correlates individual alerts into incident chains (e.g. failed logins → successful login = Account Compromise)
-- Generates executive-grade AI incident reports with ATT&CK mapping
-- Auto-blocks attacker IPs via iptables on critical incidents
+**What it covers:**
+- Real-time URL feature extraction and classification (ML + rule-based hybrid)
+- Google Safe Browsing API integration for layered threat validation
+- Sub-100ms detection latency for seamless browsing
+- Addresses OWASP Top 10: phishing, credential harvesting, malicious redirects
 
 ---
 
@@ -60,116 +84,88 @@ KAALI simulates a real SOC workflow end-to-end. It ingests raw security logs (Li
 ![Ollama](https://img.shields.io/badge/Ollama_(Llama_3)-000000?style=flat-square)
 ![Athena](https://img.shields.io/badge/AWS_Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-Enterprises run thousands of IAM roles consumed by services, not humans. These Non-Human Identities are almost always over-provisioned — they carry wildcard permissions but use a handful of API calls. Ghost-Protocol closes that gap.
+Enterprises run thousands of IAM roles consumed by services, not humans. These Non-Human Identities are almost always over-provisioned. Ghost-Protocol finds that gap and closes it — autonomously.
 
-**What it actually does:**
-- Discovers every NHI role (EC2, Lambda, etc.) across your AWS account
-- Correlates allowed permissions against real CloudTrail usage over 30 days via Athena
-- Sends the delta to a **local LLM (Ollama/Llama 3)** which generates a scoped least-privilege replacement policy
-- Quarantines high-risk identities immediately with a non-destructive Deny-All permissions boundary — no accidental deletions
-
-> Cloud security + AI + zero dependency on third-party LLM APIs. Everything runs locally.
+**Attack surface covered:**
+- Discovers every NHI role (EC2, Lambda, OIDC) across AWS account
+- Correlates allowed permissions vs real CloudTrail usage (30-day window) via Athena
+- Local LLM (Ollama/Llama 3) generates scoped least-privilege replacement policies
+- Quarantines high-risk identities instantly with non-destructive Deny-All boundary
+- Cloud security + IAM attack surface + zero third-party LLM dependency
 
 ---
 
-### [KUROKAMI](https://github.com/thearjunl/KUROKAMI) — AI-Driven Penetration Testing Framework
+### [KAALI](https://github.com/thearjunl/KAALI) — AI-Powered SOC Alert Correlation Engine
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0073CF?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
-Production-grade pen testing framework with LLM-powered module orchestration. Not a script wrapper — a full agentic loop that plans, executes, and reasons about findings.
+End-to-end SOC workflow simulation. Ingests raw Linux `auth.log` and Suricata IDS logs, detects brute-force and lateral movement, correlates multi-stage events into incidents, enriches with AbuseIPDB + VirusTotal intel, and uses Gemini to generate MITRE ATT&CK-mapped incident reports. Auto-blocks attacker IPs via iptables on critical incidents.
 
-**What makes it different:**
-- AI orchestration: the LLM selects and sequences `k_*` modules based on target context, not a static scan order
-- FAISS vector index for retrieval-augmented analysis — findings from past sessions inform current reasoning
-- Complete audit trail: every action, finding, reasoning chain stored in SQLite/PostgreSQL
-- Multi-format reports: JSON, HTML, PDF
-- Production hardened: rate limiting, input validation, Fernet encryption, JWT auth, 70%+ test coverage
-- Docker + Kubernetes manifests included
+---
 
+## 🛠️ Offensive Security Stack
 
+```
+Pentesting     →  Burp Suite · Nmap · Metasploit · Wireshark · Nikto
+Web Security   →  OWASP Top 10 · SQLi · XSS · SSRF · IDOR · API Security
+Cloud          →  AWS IAM · CloudTrail · Lambda · Athena · Oracle Cloud
+AI/LLM Sec    →  Prompt Injection · SSRF via Agents · Agentic Attack Surface Research
+Languages      →  Python · JavaScript · TypeScript · Bash
+Frameworks     →  FastAPI · React · Next.js · Node.js
+ML/AI          →  Ollama · FAISS · Gemini API · scikit-learn · RAG pipelines
+OS             →  Kali Linux · Ubuntu · Windows
+```
 
-## 🏅 Certifications & Training
+---
+
+## 🏅 Certifications
 
 | Credential | Issuer | Status |
 |---|---|---|
 | CEH v13 — Certified Ethical Hacker | EC-Council | 🔵 In Progress |
 | ISO/IEC 27001:2022 Lead Auditor | PECB | ✅ Completed |
-| Cyber Threat Intelligence — CTIGA / CTI 101 | arcX | ✅ Completed |
-| ISEA · CSEDP | Govt. of India | ✅ Completed |
+| Cyber Threat Intelligence — CTIGA / CTI 101 | arcX / Red Team Leaders | ✅ Completed |
+| CSEDP — Social Engineering Defense | The SecOps Group | ✅ Completed |
 | Google Cybersecurity Specialization | Google / Coursera | ✅ Completed |
 | Oracle Cloud Infrastructure Generative AI | Oracle | ✅ Completed |
+| ISEA — Information Security Awareness | Govt. of India | ✅ Completed |
 | TryHackMe — SOC Level 1 Path | TryHackMe | ✅ Active |
 
 ---
 
 ## 💼 Experience
 
-**Security Analyst Intern** — Red Team Hacker Academy *(VAPT, vulnerability assessment, security tooling)*
+**Cybersecurity Intern** — WIN in Life Academy *(March 2026 – Present)*
+> Security operations, threat analysis, cybersecurity awareness training
 
-**Software Developer Intern** — Zoople Technologies *(full-stack development, React, Node.js)*
+**Security Analyst Intern** — Red Team Hacker Academy
+> VAPT, vulnerability assessment, offensive security tooling, ethical hacking techniques
 
----
-
-## 🧰 Core Stack
-
-```
-Security      →  Wireshark · Nmap · Burp Suite · Metasploit · SIEM tools · MITRE ATT&CK
-Cloud         →  AWS (IAM, CloudTrail, Lambda, Athena) · Oracle Cloud
-Languages     →  Python · JavaScript · TypeScript · Java
-Web           →  React · Next.js · FastAPI · Node.js · PostgreSQL · Supabase
-AI / ML       →  Ollama · Gemini API · FAISS · LangChain-style RAG
-OS            →  Linux (primary) · Windows
-```
-
----
-
-
-
----
-
-
-<div >
-
-<p>
-<a href="https://www.linkedin.com/in/thearjunl/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
-</a>
-<a href="https://tryhackme.com/p/arjunl" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40"/>
-</a>
-<a href="https://leetcode.com/u/thearjunl/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" width="52" height="40"/>
-</a>
-<a href="mailto:theearjunl@gmail.com">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
-</a>
-</p>
-
-</div>
+**Software Developer Intern** — Zoople Technologies
+> Full-stack development (React, Node.js, Python Django), secure coding practices
 
 ---
 
 ## 🔭 Currently Working On
 
-- `KAALI` — adding automated SIEM-style dashboards and multi-source log correlation
-- `Ghost-Protocol` — multi-account AWS support and Terraform policy export
+- `KUROKAMI` — expanding LLM security research: prompt injection vectors and agentic SSRF scenarios
+- `Ghost-Protocol` — multi-account AWS support and Terraform least-privilege policy export
 - CEH v13 practical labs and exam prep
-- Actively applying for **SOC Analyst / Security Analyst** roles across India
+- Actively applying for **Offensive Security Intern / Penetration Testing** roles
 
 ---
 
 ## 📬 Let's Talk
 
-If you're hiring for SOC / Security Analyst roles or want to collaborate on security tooling — reach out.
+If you're hiring for offensive security, pentesting, or security engineering — reach out.
 
-- 📧 [theearjunl@gmail.com](mailto:theearjunl@gmail.com)
+- 📧 [arjunlputhuvelil333@gmail.com](mailto:arjunlputhuvelil333@gmail.com)
 - 💼 [linkedin.com/in/thearjunl](https://www.linkedin.com/in/thearjunl/)
-- 🌐 Open to roles in Kerala, broader India, and remote-first positions
+- 🌐 [thearjunl.vercel.app](https://thearjunl.vercel.app/)
+- 📍 Kerala, India — open to Bangalore onsite, pan-India, and remote roles
 
 ---
 
@@ -181,5 +177,6 @@ If you're hiring for SOC / Security Analyst roles or want to collaborate on secu
   <img alt="contribution graph" src="https://raw.githubusercontent.com/thearjunl/thearjunl/output/pacman-contribution-graph.svg">
 </picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=thearjunl&color=00BFFF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=thearjunl&color=FF4444&style=flat-square&label=Profile+Views)
 
+</div>
