@@ -107,13 +107,7 @@ A production-grade agentic pentesting framework where the LLM doesn't just assis
 
 Manifest V3 Chrome extension for real-time phishing URL detection. Random Forest ML model served via FastAPI, layered with Google Safe Browsing API. Directly addresses **OWASP A05** and social engineering attack vectors at the browser level.
 
-**What it covers:**
-- Real-time URL feature extraction and ML + rule-based hybrid classification
-- Google Safe Browsing API integration for layered threat validation
-- Sub-100ms detection latency
-- Covers phishing, credential harvesting, and malicious redirect scenarios from OWASP Top 10
 
----
 
 ### [Ghost-Protocol](https://github.com/thearjunl/Ghost-Protocol) — Autonomous NHI Auditor for AWS IAM
 
@@ -124,14 +118,7 @@ Manifest V3 Chrome extension for real-time phishing URL detection. Random Forest
 
 Enterprises run thousands of IAM roles consumed by services, not humans. These Non-Human Identities are almost always over-provisioned. Ghost-Protocol identifies that gap and closes it — autonomously.
 
-**What it covers:**
-- Discovers every NHI role (EC2, Lambda, OIDC) across an AWS account
-- Correlates allowed permissions vs real CloudTrail usage (30-day window) via Athena
-- Local LLM (Ollama/Llama 3) generates scoped least-privilege replacement policies
-- Quarantines high-risk identities instantly with non-destructive Deny-All boundary
-- Zero third-party LLM dependency
 
----
 
 ### [KAALI](https://github.com/thearjunl/KAALI) — AI-Powered SOC Alert Correlation Engine
 
