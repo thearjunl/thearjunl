@@ -11,6 +11,9 @@
 [![Email](https://img.shields.io/badge/Email-theearjunl@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:theearjunl@gmail.com)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00FF41?style=flat-square)
 
+<!-- Terminal / matrix GIF — replace with your own asset in an assets/ folder for reliability -->
+<img src="https://raw.githubusercontent.com/thearjunl/thearjunl/main/assets/matrix.gif" width="100%">
+
 </div>
 
 ---
@@ -54,18 +57,19 @@ Discovers over-provisioned Non-Human IAM identities, correlates allowed vs. actu
 
 ---
 
-### [Argus](https://github.com/thearjunl/Argus) · [Nizhal](https://github.com/thearjunl/Nizhal) · [DarkPulse](https://github.com/thearjunl/DarkPulse)
-
+### [Argus](https://github.com/thearjunl/Argus) · [Nizhal](https://github.com/thearjunl/Nizhal) 
 > VAPT report automation + SOC dashboard (Next.js 14, Docker, ISO 27001 audit logging) · Phishing URL detection Chrome extension (Random Forest ML) · Cross-platform EDR & malware analysis (YARA, PyQt6)
 
 ---
 
 ## 🧰 Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,go,ts,react,nextjs,fastapi,postgres,docker,aws,linux,bash,git" />
+</p>
+
 ```
 Security    →  SIEM · Wireshark · Burp Suite · Metasploit · MITRE ATT&CK · Nmap
-Languages   →  Python · Go · TypeScript · Bash
-Web         →  Next.js 14 · FastAPI · React · PostgreSQL · Docker
 AI / ML     →  Ollama · Gemini API · FAISS · RAG pipelines
 Cloud       →  AWS (IAM · CloudTrail · Lambda · Athena) · Oracle Cloud
 ```
@@ -93,10 +97,19 @@ Cloud       →  AWS (IAM · CloudTrail · Lambda · Athena) · Oracle Cloud
 
 ![Streak](https://streak-stats.demolab.com/?user=thearjunl&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=thearjunl&theme=algolia&no-frills=true&row=1&column=6)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thearjunl/thearjunl/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thearjunl/thearjunl/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/thearjunl/thearjunl/output/pacman-contribution-graph.svg">
+</picture>
+
+<!-- Snake game eating your contribution graph — needs the snk GitHub Action set up (see note below) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thearjunl/thearjunl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thearjunl/thearjunl/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/thearjunl/thearjunl/output/github-contribution-grid-snake.svg">
 </picture>
 
 ```
