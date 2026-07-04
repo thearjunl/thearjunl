@@ -97,7 +97,7 @@ Cloud       →  AWS (IAM · CloudTrail · Lambda · Athena) · Oracle Cloud
 
 ![Streak](https://streak-stats.demolab.com/?user=thearjunl&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=thearjunl&theme=algolia&no-frills=true&row=1&column=6)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thearjunl/thearjunl/output/pacman-contribution-graph-dark.svg">
@@ -105,12 +105,7 @@ Cloud       →  AWS (IAM · CloudTrail · Lambda · Athena) · Oracle Cloud
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/thearjunl/thearjunl/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- Snake game eating your contribution graph — needs the snk GitHub Action set up (see note below) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thearjunl/thearjunl/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thearjunl/thearjunl/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/thearjunl/thearjunl/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ```
 [ Hunting threats. Shipping tools. Breaking things ethically. ]
