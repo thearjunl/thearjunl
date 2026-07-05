@@ -101,14 +101,9 @@ Discovers over-provisioned Non-Human IAM identities, correlates allowed vs. actu
 
 ---
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thearjunl&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" />
-
-  <img height="170" src="https://github-readme-streak-stats.demolab.com?user=thearjunl&theme=chartreuse-dark&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearjunl&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
-
+![](https://github-readme-stats.shion.dev/api?username=thearjunl&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=thearjunl&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=thearjunl&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 <picture>
