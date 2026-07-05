@@ -101,12 +101,7 @@ Discovers over-provisioned Non-Human IAM identities, correlates allowed vs. actu
 
 ---
 
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/thearjunl/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
-</a>
 
 
 <picture>
