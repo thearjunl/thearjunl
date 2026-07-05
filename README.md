@@ -22,9 +22,8 @@
 </p>
 
 
-```bash
-$ whoami
-→  MCA graduate (Cybersecurity), Kerala, India
+## 👨‍💻 About Me
+
 Security-focused Full Stack Developer from Kerala, India, building at the intersection of AppSec and modern web development. I've shipped both security tooling (SOC correlation engines, LLM pentest frameworks) and full-stack apps (Next.js, FastAPI, Supabase). Currently chasing CEH v13 and open to Full Stack or Security Analyst roles.
 
 
