@@ -64,17 +64,7 @@ Discovers over-provisioned Non-Human IAM identities, correlates allowed vs. actu
 
 ## 🧰 Stack
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:00C3FF&height=220&section=header&text=Arjun%20L&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security-Focused%20Full%20Stack%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=55"/>
-</p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=850&lines=Ethical+Hacker;Security-Focused+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Python+%7C+Java+%7C+Linux;Always+Learning+New+Things+🚀"/>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,react,nextjs,nodejs,express,mongodb,mysql,docker,linux,git,github,bash,kali,vscode&perline=8"/>
-</p>
 
 <p align="center">
 
