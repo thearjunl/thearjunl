@@ -110,7 +110,17 @@ Discovers over-provisioned Non-Human IAM identities, correlates allowed vs. actu
 <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="50"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="50"/></a>
 <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" height="50"/></a>
+<a href="https://www.kali.org/" target="_blank"><img src="https://cdn.simpleicons.org/kalilinux/557C94" height="45"/></a>
+<a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7" height="45"/></a>
+<a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge" height="30"/></a>
+<a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" height="30"/></a>
+<a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://img.shields.io/badge/Nessus-00B4E5?style=for-the-badge" height="30"/></a>
+<a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge" height="30"/></a>
+<a href="https://openvpn.net/" target="_blank"><img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="45"/></a>
+<a href="https://www.proxmox.com/" target="_blank"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="45"/></a>
+<a href="https://www.cloudflare.com/" target="_blank"><img src="https://cdn.simpleicons.org/cloudflare/F38020" height="45"/></a>
 </p>
+
 
 
 ## 💼 Experience
