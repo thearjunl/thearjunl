@@ -32,16 +32,7 @@ Arjun L
 🛡️ Cybersecurity Enthusiast
 🤖 Building AI-Powered Security Tools
 
-Current Focus
-• Application Security
-• Offensive Security
-• Cloud Security
-• AI for Cybersecurity
 
-Currently Learning
-• CEH v13
-• Active Directory
-• Malware Analysis
 
 Open To
 • Security Engineer
