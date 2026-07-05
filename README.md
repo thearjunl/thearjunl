@@ -33,11 +33,6 @@ Arjun L
 🤖 Building AI-Powered Security Tools
 
 
-
-Open To
-• Security Engineer
-• SOC Analyst
-• Application Security Roles
 ```
 
 ---
