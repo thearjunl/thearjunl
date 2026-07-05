@@ -100,11 +100,10 @@ Discovers over-provisioned Non-Human IAM identities, correlates allowed vs. actu
 **Software Developer Intern** — Zoople Technologies *(React, Node.js)*
 
 ---
-
-![](https://github-readme-stats.shion.dev/api?username=thearjunl&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=thearjunl&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=thearjunl&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=thearjunl&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=thearjunl&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thearjunl/thearjunl/output/pacman-contribution-graph-dark.svg">
