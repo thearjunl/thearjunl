@@ -25,8 +25,9 @@
 ```bash
 $ whoami
 →  MCA graduate (Cybersecurity), Kerala, India
-→  Building autonomous security tools at the AI × offensive security intersection
-→  Hunting for SOC Analyst / Security Analyst roles | CEH v13 in progress
+Security-focused Full Stack Developer from Kerala, India, building at the intersection of AppSec and modern web development. I've shipped both security tooling (SOC correlation engines, LLM pentest frameworks) and full-stack apps (Next.js, FastAPI, Supabase). Currently chasing CEH v13 and open to Full Stack or Security Analyst roles.
+
+
 ```
 
 ---
