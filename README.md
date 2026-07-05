@@ -145,19 +145,21 @@ Discovers over-provisioned Non-Human IAM identities, correlates allowed vs. actu
 <a href="https://www.maltego.com/" target="_blank"><img src="https://img.shields.io/badge/Maltego-1E1E1E?style=for-the-badge" height="30" alt="Maltego"/></a>
 </p>
 
-## 💼 Experience
 <h3 align="center">💼 Experience Timeline</h3>
 
 <img align="right" width="280" src="assets/coding.gif">
-🗓️  Mar 2026 – Present
-🔐  Cybersecurity Intern @ WIN in Life Academy
-→ SOC monitoring, threat analysis, security ops
-🗓️  Earlier
-⚔️  Security Analyst Intern @ Red Team Hacker Academy
-→ VAPT, offensive security, penetration testing
-🗓️  Earlier
-💻  Software Developer Intern @ Zoople Technologies
-→ React, Node.js, full-stack development
+
+- 🗓️ **Mar 2026 – Present**
+  🔐 Cybersecurity Intern @ WIN in Life Academy
+  → SOC monitoring, threat analysis, security ops
+
+- 🗓️ **Earlier**
+  ⚔️ Security Analyst Intern @ Red Team Hacker Academy
+  → VAPT, offensive security, penetration testing
+
+- 🗓️ **Earlier**
+  💻 Software Developer Intern @ Zoople Technologies
+  → React, Node.js, full-stack development
 
 <br clear="right"/>
 
