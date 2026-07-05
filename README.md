@@ -22,9 +22,31 @@
 </p>
 
 
-```bash$ whoami→  MCA graduate (Cybersecurity), Kerala, India→  Building autonomous security tools at the AI × offensive security intersection→  Hunting for SOC Analyst / Security Analyst roles | CEH v13 in progress``` 
+```bash
+$ whoami
 
+Arjun L
 
+🎓 Integrated MCA Graduate
+🔐 Security-Focused Full Stack Developer
+🛡️ Cybersecurity Enthusiast
+🤖 Building AI-Powered Security Tools
+
+Current Focus
+• Application Security
+• Offensive Security
+• Cloud Security
+• AI for Cybersecurity
+
+Currently Learning
+• CEH v13
+• Active Directory
+• Malware Analysis
+
+Open To
+• Security Engineer
+• SOC Analyst
+• Application Security Roles
 ```
 
 ---
