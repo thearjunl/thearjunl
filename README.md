@@ -39,36 +39,80 @@ Arjun L
 
 ## 🔐 Projects
 
-### [KAALI](https://github.com/thearjunl/KAALI) — AI-Powered SOC Alert Correlation Engine
-`FastAPI` `Elasticsearch` `Gemini AI` `React` `iptables`
+<h3 align="center">🔐 Projects</h3>
 
-Ingests real security logs (Linux auth.log, Suricata IDS), correlates multi-stage events into incidents, maps them to MITRE ATT&CK, and generates AI analyst reports with auto-IP-block on critical alerts.
+<p align="center">
+<img src="assets/matrix.gif" width="100%">
+</p>
 
----
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### [KUROKAMI](https://github.com/thearjunl/KUROKAMI) — Autonomous AI Pentesting Framework
-`Python` `Ollama` `FAISS` `Docker` `PostgreSQL` `Kubernetes`
+### 🛡️ [KAALI](https://github.com/thearjunl/KAALI)
+**AI-Powered SOC Alert Correlation Engine**
 
-Production-grade agentic pentest framework. The LLM selects and sequences modules dynamically — not a static scanner. FAISS RAG over CVE/MITRE ATT&CK informs reasoning across sessions. 70%+ test coverage, JWT auth, encrypted audit trail.
+`FastAPI` `Elasticsearch` `Gemini AI` `React`
 
----
+Ingests real security logs (auth.log, Suricata IDS), correlates multi-stage events into incidents, maps to MITRE ATT&CK, auto-blocks critical alerts.
 
-### [AirLock](https://github.com/thearjunl/AirLock) — LLM Prompt Injection Firewall
-`Go` `Aho-Corasick` `Prometheus` `Slack Webhooks`
+</td>
+<td width="50%" valign="top">
 
-Reverse proxy firewall that inspects and sanitizes LLM-bound traffic in real-time. ContextSandbox RAG isolation layer, rate limiting, Prometheus metrics, live Slack alerts.
+### 🤖 [KUROKAMI](https://github.com/thearjunl/KUROKAMI)
+**Autonomous AI Pentesting Framework**
 
----
+`Python` `Ollama` `FAISS` `Docker` `K8s`
 
-### [Ghost-Protocol](https://github.com/thearjunl/Ghost-Protocol) — Autonomous AWS IAM NHI Auditor
-`Python` `AWS` `Ollama / Llama 3` `CloudTrail` `Athena`
+LLM dynamically selects and sequences pentest modules. FAISS RAG over CVE/MITRE ATT&CK. 70%+ test coverage, JWT auth, encrypted audit trail.
 
-Discovers over-provisioned Non-Human IAM identities, correlates allowed vs. actually-used permissions over 30 days via Athena, generates scoped least-privilege policies locally — zero third-party LLM APIs.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🔥 [AirLock](https://github.com/thearjunl/AirLock)
+**LLM Prompt Injection Firewall**
 
-### [Argus](https://github.com/thearjunl/Argus) · [Nizhal](https://github.com/thearjunl/Nizhal) 
-> VAPT report automation + SOC dashboard (Next.js 14, Docker, ISO 27001 audit logging) · Phishing URL detection Chrome extension (Random Forest ML) · Cross-platform EDR & malware analysis (YARA, PyQt6)
+`Go` `Aho-Corasick` `Prometheus` `Slack`
+
+Reverse proxy that inspects and sanitizes LLM-bound traffic in real-time. RAG payload sandboxing, rate limiting, live Slack alerts.
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ [Ghost-Protocol](https://github.com/thearjunl/Ghost-Protocol)
+**Autonomous AWS IAM Auditor**
+
+`Python` `AWS` `Ollama` `CloudTrail` `Athena`
+
+Discovers over-provisioned IAM identities, correlates allowed vs. actual permissions over 30 days, generates least-privilege policies — zero third-party LLM APIs.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Argus](https://github.com/thearjunl/Argus)
+**VAPT Report Automation Dashboard**
+
+`Next.js 14` `Docker` `PostgreSQL`
+
+Automated VAPT reporting with Gemini AI, RBAC, and ISO 27001 audit logging.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎣 [Nizhal](https://github.com/thearjunl/Nizhal)
+**Phishing URL Detection Extension**
+
+`Chrome Extension` `Random Forest ML`
+
+Real-time phishing detection using ML-trained URL classification, built as a lightweight browser extension.
+
+</td>
+</tr>
+</table>
 
 ---
 
