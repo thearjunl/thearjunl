@@ -37,7 +37,7 @@ Arjun L
 
 ---
 
-## 🔐 Projects
+
 
 <h3 align="center">🔐 Projects</h3>
 
