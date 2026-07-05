@@ -101,13 +101,12 @@ Discovers over-provisioned Non-Human IAM identities, correlates allowed vs. actu
 
 ---
 
-<div align="center">
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/thearjunl/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thearjunl&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearjunl&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9)
-
-![Streak](https://streak-stats.demolab.com/?user=thearjunl&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)
-
+</a>
 
 
 <picture>
