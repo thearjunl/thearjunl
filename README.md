@@ -120,7 +120,14 @@ Discovers over-provisioned Non-Human IAM identities, correlates allowed vs. actu
 <a href="https://www.proxmox.com/" target="_blank"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="45"/></a>
 <a href="https://www.cloudflare.com/" target="_blank"><img src="https://cdn.simpleicons.org/cloudflare/F38020" height="45"/></a>
 </p>
-
+<p align="center">
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" height="45"/></a>
+<a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" height="45"/></a>
+<a href="https://www.ansible.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ansible" height="45"/></a>
+<a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" height="45"/></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" height="45"/></a>
+<a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" height="45"/></a>
+</p>
 
 
 ## 💼 Experience
