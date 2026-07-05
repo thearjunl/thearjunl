@@ -16,6 +16,10 @@
 
 </div>
 
+
+<p align="center">
+  <img src="assets/space-shooter.gif" width="100%" alt="GitHub Space Shooter">
+</p>
 ---
 
 ```bash
