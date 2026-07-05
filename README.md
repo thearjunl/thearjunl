@@ -76,20 +76,29 @@ Cloud       →  AWS (IAM · CloudTrail · Lambda · Athena) · Oracle Cloud
 
 ---
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,express,mongodb,mysql,linux,docker,git,github,bash,kali,vscode&theme=dark" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+%F0%9F%94%92;Full+Stack+Developer+%F0%9F%92%BB;Ethical+Hacker+%F0%9F%9B%A1%EF%B8%8F;Open+Source+Contributor+%F0%9F%9A%80" />
-
-</div>
-
----
-
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500"/>
+
+<marquee behavior="scroll" direction="left" scrollamount="8">
+
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
+<img src="https://skillicons.dev/icons?i=java" height="60"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="60"/>
+<img src="https://skillicons.dev/icons?i=js" height="60"/>
+<img src="https://skillicons.dev/icons?i=ts" height="60"/>
+<img src="https://skillicons.dev/icons?i=react" height="60"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="60"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
+<img src="https://skillicons.dev/icons?i=express" height="60"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+<img src="https://skillicons.dev/icons?i=linux" height="60"/>
+<img src="https://skillicons.dev/icons?i=docker" height="60"/>
+<img src="https://skillicons.dev/icons?i=git" height="60"/>
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+<img src="https://skillicons.dev/icons?i=kali" height="60"/>
+
+</marquee>
+
 </p>
 
 ---
