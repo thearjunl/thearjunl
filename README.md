@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- PASTE THE SVG BANNER HERE OR USE TYPING SVG BELOW -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=1500&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Arjun+L;Cybersecurity+Engineer;AI+Security+Researcher;Builder+of+Autonomous+Security+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=1500&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Arjun+L;Cybersecurity+Anaiyst;AI+Security+Researcher;)](https://git.io/typing-svg)
 
-**`SOC Analyst · AppSec · AI-Powered Security Tooling · Kerala, India`**
+**`Cybersecurity Enthusiast · AppSec · AI-Powered Security Tooling · Kerala, India`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thearjunl-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thearjunl/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-arjunl-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/arjunl)
