@@ -100,7 +100,37 @@ Discovers over-provisioned Non-Human IAM identities, correlates allowed vs. actu
 </marquee>
 
 </p>
+  <p align="center">
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" height="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" height="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" height="55"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" height="55"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express" height="55"/>
+</a>
+
+</p>
 ---
 
 ## 💼 Experience
