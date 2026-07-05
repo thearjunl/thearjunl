@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- PASTE THE SVG BANNER HERE OR USE TYPING SVG BELOW -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=1500&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Arjun+L;Cybersecurity+Anaiyst;AI+Security+Researcher;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=1500&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Arjun+L;Cybersecurity+Analyst;AI+Security+Researcher;)](https://git.io/typing-svg)
 
 **`Security-Focused Full Stack Developer · Ethical Hacker · Building AI-Powered Security Tools · Kerala, India`**
 
