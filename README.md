@@ -128,6 +128,38 @@ Discovers over-provisioned Non-Human IAM identities, correlates allowed vs. actu
 </p>
 
 
+<h3 align="center">🛡️ Security Tools</h3>
+
+<p align="center">
+<a href="https://www.kali.org/" target="_blank"><img src="https://cdn.simpleicons.org/kalilinux/557C94" height="45" alt="Kali Linux"/></a>
+<a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7" height="45" alt="Wireshark"/></a>
+<a href="https://owasp.org/" target="_blank"><img src="https://cdn.simpleicons.org/owasp/000000" height="45" alt="OWASP"/></a>
+<a href="https://www.hackthebox.com/" target="_blank"><img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="45" alt="HackTheBox"/></a>
+<a href="https://tryhackme.com/" target="_blank"><img src="https://cdn.simpleicons.org/tryhackme/212C42" height="45" alt="TryHackMe"/></a>
+<a href="https://letsencrypt.org/" target="_blank"><img src="https://cdn.simpleicons.org/letsencrypt/003A70" height="45" alt="Let's Encrypt"/></a>
+<a href="https://www.vaultproject.io/" target="_blank"><img src="https://cdn.simpleicons.org/vault/FFEC6E" height="45" alt="HashiCorp Vault"/></a>
+<a href="https://openvpn.net/" target="_blank"><img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="45" alt="OpenVPN"/></a>
+<a href="https://www.proxmox.com/" target="_blank"><img src="https://cdn.simpleicons.org/proxmox/E57000" height="45" alt="Proxmox"/></a>
+<a href="https://www.cloudflare.com/" target="_blank"><img src="https://cdn.simpleicons.org/cloudflare/F38020" height="45" alt="Cloudflare"/></a>
+<a href="https://www.splunk.com/" target="_blank"><img src="https://cdn.simpleicons.org/splunk/000000" height="45" alt="Splunk"/></a>
+<a href="https://www.elastic.co/" target="_blank"><img src="https://cdn.simpleicons.org/elastic/005571" height="45" alt="Elastic"/></a>
+
+<br/>
+
+<a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge" height="30" alt="Nmap"/></a>
+<a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" height="30" alt="Metasploit"/></a>
+<a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge" height="30" alt="Burp Suite"/></a>
+<a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://img.shields.io/badge/Nessus-00B4E5?style=for-the-badge" height="30" alt="Nessus"/></a>
+<a href="https://www.openwall.com/john/" target="_blank"><img src="https://img.shields.io/badge/John%20The%20Ripper-4B0082?style=for-the-badge" height="30" alt="John the Ripper"/></a>
+<a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank"><img src="https://img.shields.io/badge/Hydra-B71C1C?style=for-the-badge" height="30" alt="Hydra"/></a>
+<a href="https://www.aircrack-ng.org/" target="_blank"><img src="https://img.shields.io/badge/Aircrack--ng-333333?style=for-the-badge" height="30" alt="Aircrack-ng"/></a>
+<a href="https://cirt.net/Nikto2" target="_blank"><img src="https://img.shields.io/badge/Nikto-2E7D32?style=for-the-badge" height="30" alt="Nikto"/></a>
+<a href="https://sqlmap.org/" target="_blank"><img src="https://img.shields.io/badge/SQLmap-D32F2F?style=for-the-badge" height="30" alt="SQLmap"/></a>
+<a href="https://www.zaproxy.org/" target="_blank"><img src="https://img.shields.io/badge/OWASP%20ZAP-FF6600?style=for-the-badge" height="30" alt="OWASP ZAP"/></a>
+<a href="https://hashcat.net/hashcat/" target="_blank"><img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge" height="30" alt="Hashcat"/></a>
+<a href="https://www.maltego.com/" target="_blank"><img src="https://img.shields.io/badge/Maltego-1E1E1E?style=for-the-badge" height="30" alt="Maltego"/></a>
+</p>
+
 ## 💼 Experience
 
 **Cybersecurity Intern** — WIN in Life Academy *(Mar 2026 – Present)*
