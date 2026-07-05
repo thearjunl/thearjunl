@@ -76,9 +76,21 @@ Cloud       →  AWS (IAM · CloudTrail · Lambda · Athena) · Oracle Cloud
 
 ---
 
-## 🏅 Certifications
+<div align="center">
 
-`ISO/IEC 27001:2022 Lead Auditor` · `CTIGA` · `Google Cybersecurity` · `Oracle Cloud Gen AI` · `arcX CTI 101` · `CEH v13 — In Progress`
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,express,mongodb,mysql,linux,docker,git,github,bash,kali,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+%F0%9F%94%92;Full+Stack+Developer+%F0%9F%92%BB;Ethical+Hacker+%F0%9F%9B%A1%EF%B8%8F;Open+Source+Contributor+%F0%9F%9A%80" />
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500"/>
+</p>
 
 ---
 
